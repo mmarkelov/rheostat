@@ -36,7 +36,7 @@
     "acorn": "^6.0.5",
     "acorn-jsx": "^5.0.1",
     "airbnb-browser-shims": "^3.1.0",
-    "aphrodite": "^2.2.3",
+    "aphrodite": "^2.3.0",
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
     "babel-jest": "^21.2.0",
