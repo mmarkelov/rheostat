@@ -55,7 +55,7 @@
     "eslint-plugin-import": "^2.17.3",
     "eslint-plugin-jsx-a11y": "^6.2.1",
     "eslint-plugin-react": "^7.13.0",
-    "espree": "^4.1.0",
+    "espree": "^6.0.0",
     "has": "^1.0.3",
     "in-publish": "^2.0.0",
     "jest": "^21.2.1",
